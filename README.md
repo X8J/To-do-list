@@ -6,3 +6,4 @@ My to do list
 + pg / username to database breach
 + Make better to do list
 + Website?
++ Alternate youtube account for showcasing / informational (far future)
