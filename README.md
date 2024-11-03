@@ -8,3 +8,5 @@ My to do list
 + Website?
 + Alternate youtube account for showcasing / informational (far future)
 + AI Trading bot (What will go up?)
++ OSINT
++ Projection mapper
