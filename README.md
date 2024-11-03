@@ -7,3 +7,4 @@ My to do list
 + Make better to do list
 + Website?
 + Alternate youtube account for showcasing / informational (far future)
++ AI Trading bot (What will go up?)
