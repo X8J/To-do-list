@@ -4,7 +4,7 @@ My to do list
 + Roblox limited sniper
 + Total views amassed
 + pg / username to database breach
-+ Make better to do list
++ Make better to do list (Stylized & subcategories, through github)
 + Website? 
 + Alternate youtube account for showcasing / informational (far future)
 + AI Trading bot (What will go up?)
