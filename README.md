@@ -15,3 +15,4 @@ My to do list
 + Algorithm evaluation, why are certain youtube channels doing better than others (disgarding content itself and purely looking at channel tags and etc)
 + Discord ID to .... (information)
 + Youtube stats bot on discord / Notifier
++ Fake gui
