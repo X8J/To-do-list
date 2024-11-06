@@ -13,3 +13,4 @@ My to do list
 + Pc checker - Ray P
 + Username sniper - Automatically take target usernames when available
 + Algorithm evaluation, why are certain youtube channels doing better than others (disgarding content itself and purely looking at channel tags and etc)
++ Discord ID to .... (information)
