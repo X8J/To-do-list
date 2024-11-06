@@ -10,4 +10,4 @@ My to do list
 + AI Trading bot (What will go up?)
 + OSINT
 + Projection mapper
-+ Pc checker
++ Pc checker - Ray P
