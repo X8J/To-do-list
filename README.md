@@ -17,3 +17,4 @@ My to do list
 + Fake gui
 + https://instagram.com/p/DAcmhyKsa9m/ (Ae)
 + Ai autoplay robot, building off yolo v8, except auto shoots and moves towards detected targets, looks around when none found.
++ Join date overlay
