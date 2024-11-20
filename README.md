@@ -7,7 +7,6 @@ My to do list
 + Make better to do list (Stylized & subcategories, through github)
 + Website? 
 + Alternate youtube account for showcasing / informational (far future)
-+ OSINT
 + Projection mapper
 + Pc checker - Ray P
 + Username sniper - Automatically take target usernames when available
@@ -18,3 +17,4 @@ My to do list
 + https://instagram.com/p/DAcmhyKsa9m/ (Ae)
 + Ai autoplay robot, building off yolo v8, except auto shoots and moves towards detected targets, looks around when none found.
 + Join date overlay
++ Promote repo's
