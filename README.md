@@ -1,11 +1,11 @@
 # To-do-list
 My to do list
 
-+ Roblox limited sniper
++ Roblox limited sniper (Move off?)
 + Total views amassed
 + pg / username to database breach
 + Make better to do list (Stylized & subcategories, through github)
-+ Website? 
++ Website?  - Behance
 + Alternate youtube account for showcasing / informational (far future)
 + Pc checker - Ray P
 + Username sniper - Automatically take target usernames when available
