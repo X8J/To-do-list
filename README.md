@@ -17,4 +17,5 @@ My to do list
 + Ai autoplay robot, building off yolo v8, except auto shoots and moves towards detected targets, looks around when none found.
 + Join date overlay
 + Promote repo's
-+ GAME UI DESIGN - thumbnail design portfolio
++ GAME UI DESIGN
++ Promote Behance profile - get clients
