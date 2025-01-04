@@ -19,3 +19,4 @@ My to do list
 + Promote repo's
 + GAME UI DESIGN
 + Promote Behance profile - get clients
++ Detect black screens in mp4 video to find accidentally unedited portions of video
