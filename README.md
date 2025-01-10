@@ -7,9 +7,8 @@ My to do list
 + Make better to do list (Stylized & subcategories, through github)
 + Website?  - Behance
 + Alternate youtube account for showcasing / informational (far future)
-+ Pc checker - Ray P
-+ Username sniper - Automatically take target usernames when available
-+ Algorithm evaluation, why are certain youtube channels doing better than others (disgarding content itself and purely looking at channel tags and etc)
++ Pc checker
++ Algorithm evaluation, why are certain youtube channels doing better than others
 + Discord ID to .... (information)
 + Youtube stats bot on discord / Notifier (!)
 + Fake gui
