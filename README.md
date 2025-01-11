@@ -19,3 +19,5 @@ My to do list
 + GAME UI DESIGN
 + Promote Behance profile - get clients
 + Detect black screens in mp4 video to find accidentally unedited portions of video
++ Snapshot - get screenshot of pc to phone
++ Control pc from phone
