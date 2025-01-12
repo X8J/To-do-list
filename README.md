@@ -21,3 +21,4 @@ My to do list
 + Detect black screens in mp4 video to find accidentally unedited portions of video
 + Snapshot - get screenshot of pc to phone
 + Control pc from phone
++ Roblox in game follower - discord bot integration
