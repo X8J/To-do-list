@@ -6,8 +6,6 @@ My to do list
 + Make better to do list (Stylized & subcategories, through github)
 + Website?  - Behance
 + Alternate youtube account for showcasing / informational (far future)
-+ Pc checker
-+ Algorithm evaluation, why are certain youtube channels doing better than others
 + Discord ID to .... (information)
 + Youtube stats bot on discord / Notifier (!)
 + Fake gui
