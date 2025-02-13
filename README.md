@@ -13,3 +13,4 @@ My to do list
 + Snapshot - get screenshot of pc to phone
 + Control pc from phone
 + Live audio input to captions
++ Combait warriors fps
