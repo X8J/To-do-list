@@ -14,4 +14,4 @@ My to do list
 + Control pc from phone
 + Live audio input to captions
 + Combait warriors fps
-+ yt vid live chat
++ Video outlier finder / top viewed per niche
